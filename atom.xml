@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lampoo Ocean Travel — Master Link Feed</title>
+  <id>https://fbmakadech.github.io/lampoooceantravel-links/atom.xml</id>
+  <updated>2025-11-08T13:35:19Z</updated>
+  <entry>
+    <title>Main Website</title>
+    <id>https://www.lampoooceantravel.com/</id>
+    <link href="https://www.lampoooceantravel.com/" />
+    <updated>2025-11-08T13:35:19Z</updated>
+    <summary>Official site — Book Now, Pay on Arrival.</summary>
+  </entry>
+  <entry>
+    <title>Maeklong + Floating + Dragon Temple</title>
+    <id>https://www.lampoooceantravel.com/Maeklong-Railway-Market-Multi-Tour</id>
+    <link href="https://www.lampoooceantravel.com/Maeklong-Railway-Market-Multi-Tour" />
+    <updated>2025-11-08T13:35:19Z</updated>
+    <summary>Best-seller 3-in-1 day tour with Khaosan pickup.</summary>
+  </entry>
+  <entry>
+    <title>FeedBurner 1</title>
+    <id>https://feeds.feedburner.com/lampoooceantravel/P0oITccTo6m</id>
+    <link href="https://feeds.feedburner.com/lampoooceantravel/P0oITccTo6m" />
+    <updated>2025-11-08T13:35:19Z</updated>
+    <summary>FeedBurner endpoint for Lampoo Ocean Travel.</summary>
+  </entry>
+  <entry>
+    <title>FeedBurner 2</title>
+    <id>https://feeds.feedburner.com/lampoooceantravel/3oWiNEgeX9L</id>
+    <link href="https://feeds.feedburner.com/lampoooceantravel/3oWiNEgeX9L" />
+    <updated>2025-11-08T13:35:19Z</updated>
+    <summary>FeedBurner endpoint for Lampoo Ocean Travel.</summary>
+  </entry>
+  <entry>
+    <title>FeedBurner 3</title>
+    <id>https://feeds.feedburner.com/lampoooceantravel/KxFUJqlOOFA</id>
+    <link href="https://feeds.feedburner.com/lampoooceantravel/KxFUJqlOOFA" />
+    <updated>2025-11-08T13:35:19Z</updated>
+    <summary>FeedBurner endpoint for Lampoo Ocean Travel.</summary>
+  </entry>
+  <entry>
+    <title>FeedBurner 4</title>
+    <id>https://feeds.feedburner.com/lampoooceantravel/YvEOQnJaH94</id>
+    <link href="https://feeds.feedburner.com/lampoooceantravel/YvEOQnJaH94" />
+    <updated>2025-11-08T13:35:19Z</updated>
+    <summary>FeedBurner endpoint for Lampoo Ocean Travel.</summary>
+  </entry>
+</feed>

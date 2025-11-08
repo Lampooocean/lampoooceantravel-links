@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fbmakadech.github.io/lampoooceantravel-links/sitemap.xml
