@@ -1,7 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://fbmakadech.github.io/lampoooceantravel-links/sitemap.xml
-User-agent: *
-Allow: /
 Sitemap: https://lampooocean.github.io/lampoooceantravel-links/sitemap.xml
