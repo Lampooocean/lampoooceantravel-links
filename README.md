@@ -2,7 +2,7 @@
 
 This repository hosts a standalone GitHub Pages site acting as a backlink hub.
 
-**Public URL:** https://fbmakadech.github.io/lampoooceantravel-links/
+**Public URL:** https://lampooocean.github.io/lampoooceantravel-links/
 
 ## Files
 - `index.html` — main hub with dofollow links
@@ -12,5 +12,5 @@ This repository hosts a standalone GitHub Pages site acting as a backlink hub.
 - `urls.txt` — raw list of key URLs
 
 ## Submit sitemap
-- Google: https://www.google.com/ping?sitemap=https://fbmakadech.github.io/lampoooceantravel-links/sitemap.xml
-- Bing:   https://www.bing.com/ping?sitemap=https://fbmakadech.github.io/lampoooceantravel-links/sitemap.xml
+- Google: https://www.google.com/ping?sitemap=https://lampooocean.github.io/lampoooceantravel-links/sitemap.xml
+- Bing:   https://www.bing.com/ping?sitemap=https://lampooocean.github.io/lampoooceantravel-links/sitemap.xml
